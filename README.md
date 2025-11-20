@@ -1,1 +1,1 @@
-# .github
+.github repo for Solidqode.
